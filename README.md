@@ -24,7 +24,7 @@ Soy un **Desarrollador de Software** en constante formación, con una sólida ba
 Estos son los repositorios donde he aplicado mis conocimientos recientemente:
 
   * **[ADROMITECH](https://github.com/miguelpanzer10/ADROMITECH.git):** Desarrolo web estilo consultoría con tecnologías como Tailwind, Daisy UI, AOS, PHP. JVs.
-  * **[Juego: Ecos del Bosque Roto](https://github.com/miguelpanzer10/JuegoEcosDelBosqueRoto.git):** Un proyecto enfocado en mecánicas de juego mediantes java y estructuras de datos en SQL.
+  * **[Juego: Ecos del Bosque Roto](https://github.com/miguelpanzer10/JuegoEcosDelBosqueRoto.git):** Un proyecto enfocado en mecánicas de juego mediantes Java y estructuras de datos en SQL.
 
 -----
 
