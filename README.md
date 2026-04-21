@@ -5,7 +5,7 @@ Soy un **Desarrollador de Software** en constante formación, con una sólida ba
 
 ### 🚀 Mi momento actual
 
-  * **Primera toma de contacto profesional:** En abril de 2026, realicé una estancia de tres semanas en **scalepath**, colaborando en un entorno real de trabajo.
+  * **Primera toma de contacto profesional:** En abril de 2026, realicé una estancia de tres semanas en **ScalePathHub**, colaborando en un entorno real de trabajo.
   * **Formación académica:** Estoy cursando el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) en Xtart FP y participando en el programa de especialización en **Big Data e Inteligencia Artificial** con HPE.
 
 -----
