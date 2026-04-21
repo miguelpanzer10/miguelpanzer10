@@ -1,6 +1,3 @@
-Aquí tienes la versión actualizada de tu **README.md**, incorporando MongoDB y ajustando la descripción de tu experiencia en scalepath para que refleje correctamente esa primera toma de contacto de tres semanas:
-
------
 
 # ¡Hola\! Soy Miguel De la Iglesia Gil 👋
 
